@@ -1,4 +1,4 @@
-# 🌾 Smart Grain Spoilage Monitoring & Control System (ESP32)
+# Smart Grain Spoilage Monitoring & Control System (ESP32)
 
 **Course:** Embedded Systems and IoT  
 **Institution:** VIT Vellore – School of Computer Science Engineering and Information Systems  
