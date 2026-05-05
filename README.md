@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an **ESP32-based multi-sensor embedded system** designed for the **early detection and prevention of grain spoilage** in storage environments.
 
